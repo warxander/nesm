@@ -1,0 +1,21 @@
+{
+	"name": "nesm",
+	"version": "1.0.0",
+	"description": "FiveM NES Emulator",
+	"keywords": [
+		"fivem",
+		"nes",
+		"emulator",
+		"client"
+	],
+	"license": "APSL-2.0",
+	"author": "Warxander (https://github.com/warxander)",
+	"funding": "https://boosty.to/warxander",
+	"devDependencies": {
+		"@citizenfx/client": "^2.0.6440-1",
+		"ts-loader": "~8.2.0",
+		"typescript": "~5.1.6",
+		"webpack": "~4.41.2",
+		"webpack-cli": "~3.3.11"
+	}
+}
